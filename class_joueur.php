@@ -1,6 +1,6 @@
 <?php 
 
-class Joueur {
+class Joue {
 
     // Je déclare mes variables
     private $_nomDuPersonnage;
